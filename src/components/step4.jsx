@@ -7,7 +7,7 @@ function step4() {
         <div className="flex flex-col items-center">
           <div className="flex items-center gap-2 mb-4">
             <img src="/pinecone.png" alt="Logo" className="w-6 h-6" />
-            <h2>You're All Set</h2>
+            <h2 className="text-xl text-black font-semibold">You're All Set</h2>
           </div>
           <p className="text-gray-500 text-sm mb-4">
             We have received your submission. Thank you!
